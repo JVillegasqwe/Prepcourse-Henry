@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-este es un repositorio de prueba del prepcourse modulo 2
+Esta es una prueba de como crear un repositorio y clonarlo a mi repositorio local
+
